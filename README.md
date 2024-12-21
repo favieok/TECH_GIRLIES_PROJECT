@@ -10,4 +10,4 @@ USAGE
 4. Click the "Search" button to view the translation
 
 CONTACT
-For questions, suggestions, or feedback, please contact us at [].
+For questions, suggestions, or feedback, please contact us at [PurpliX, Treasure081, ].
