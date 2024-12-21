@@ -1,7 +1,7 @@
 # TECH_GIRLIES_PROJECT
 DESCRIPTION
 A multilingual dictionary built using Python and Tkinter.
-This project aims to create a comprehensive dictionary that translates words from English to French, Spanish, Hebrew, Japanese and
+This project aims to create a comprehensive dictionary that translates words from English to French, Japanese, Hebrew, Espanol and
 
 USAGE
 1. Launch the application
@@ -10,4 +10,4 @@ USAGE
 4. Click the "Search" button to view the translation
 
 CONTACT
-For questions, suggestions, or feedback, please contact us at [PurpliX, Treasure081, ].
+For questions, suggestions, or feedback, please contact us at [favieok, PurpliX, Treasure081, ].
